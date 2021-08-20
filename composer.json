@@ -1,0 +1,19 @@
+{
+    "name": "simplexi/greetr",
+    "description": "A sample laravel project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cyril Aguvasu",
+            "email": "aguvasucyril@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
